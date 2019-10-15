@@ -1,2 +1,5 @@
 # Cat_Game
-Made a game using Pyxel
+これは、猫のシューティングゲームです。
+# Requirement
+*pyxel
+*python3
