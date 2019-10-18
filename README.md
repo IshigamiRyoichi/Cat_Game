@@ -1,16 +1,16 @@
 # Cat_Game
-これは、猫のシューティングゲームです。
-pyxelのサンプル画像使用させていただいてます。画像を添付していますので、ダウウンロードしてください
-
-# Note
-このソースコードは、画像を読み込む際、assets/(画像名)という書き方をしています。
-添付した画像をダウンロードする際は、「assets」というフォルダを作成、もしくは、ソースコードの「assets」を画像の保存先のフォルダー名に変更するようお願いします。
-
+これは、猫のシューティングゲームです。  
+pyxelのサンプル画像使用させていただいてます。  
+画像を添付していますので、ダウウンロードしてください
 
 # Requirement
-*pyxel
-*python3
+* pyxel  　
+* [python3](
+https://www.python.org/)
+
+# Install
+ ```pip install -U pyxel```
 
 # Usage
-*cd (保存先)
-*cat_shotting.py
+* cd (保存先)
+* cat_shotting.py
